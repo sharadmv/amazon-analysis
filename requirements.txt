@@ -1,0 +1,25 @@
+## !! Could not determine repository location
+Amazon==0.0.0
+Jinja2==2.7.3
+MarkupSafe==0.23
+Pygments==1.6
+Sphinx==1.2.3
+argparse==1.2.1
+docutils==0.12
+ipython==2.3.0
+matplotlib==1.4.2
+mock==1.0.1
+nltk==3.0.0
+nose==1.3.4
+numpy==1.9.1
+numpydoc==0.5
+pandas==0.15.0
+path.py==7.0
+pymongo==2.7.2
+pyparsing==2.0.3
+python-dateutil==2.2
+pytz==2014.7
+rosetta==0.2.5
+scipy==0.14.0
+six==1.8.0
+wsgiref==0.1.2
